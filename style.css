@@ -1,0 +1,45 @@
+body {
+  background-color: rgb(0, 0, 0);
+  font-family: "Dancing Script", cursive;
+}
+table,
+tr,
+td,
+th {
+  border: 5px solid rgb(75, 2, 2);
+  color: azure;
+}
+ol {
+  color: aliceblue;
+}
+ul {
+  color: aliceblue;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: rgb(105, 1, 1);
+  transition: 2s;
+}
+p {
+  color: rgb(105, 1, 1);
+}
+h1{color: rgb(56, 0, 0);}
